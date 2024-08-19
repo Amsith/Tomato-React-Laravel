@@ -1,0 +1,74 @@
+
+.swipper-div{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+  
+  .swiper {
+    width: 100%;
+    width: 90% !important;
+    
+  }
+  
+  .swiper-slide {
+    font-size: 18px;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: visible !important;
+    padding: 20px ;
+
+
+
+  }
+  
+  .swiper-slide img {
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+  }
+  
+
+  /* ======Buton Style===== */
+  
+
+/* Override the default navigation button styles */
+
+
+.mySwiper .swiper-button-next,
+.mySwiper .swiper-button-prev {
+    width: 35px; /* Adjust width as needed */
+    height: 35px; /* Adjust height as needed */
+    background-color:tomato; /* Example background color */
+    color: #fff; /* Example color */
+    border-radius: 50%; /* Circular buttons */
+}
+
+
+.mySwiper .swiper-button-next::after,
+.mySwiper .swiper-button-prev::after {
+    font-size: 20px; /* Adjust arrow size */
+    color: white;
+
+}
+
+
+
+
+
+@media (max-width:650px){
+  
+   
+    .swiper-slide {
+    
+        padding: 20px 15%;
+    
+    
+    
+      }
+    
+    
+}

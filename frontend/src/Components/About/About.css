@@ -1,0 +1,21 @@
+.about-main-div {
+    width: 90%;
+    margin: 0px auto;
+    margin-bottom: 500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.about-img {
+    border: 1px solid black;
+    width: 50%;
+    padding: 10px;
+}
+
+.about-about {
+    border: 1px solid rgb(187, 8, 8);
+    width: 50%;
+    padding: 10px;
+
+}

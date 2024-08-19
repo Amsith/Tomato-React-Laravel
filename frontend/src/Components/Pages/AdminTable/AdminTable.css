@@ -1,0 +1,117 @@
+.form-h2 {
+  margin-bottom: 20px;
+  color: tomato;
+}
+
+.admin-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.admin-table thead {
+  background-color: tomato;
+  color: #fff;
+}
+
+.admin-table th,
+.admin-table td {
+  padding: 5px;
+  border: 1px solid #ddd;
+}
+
+.admin-table th {
+  text-transform: uppercase;
+}
+
+
+
+
+
+.admin-table img {
+  border-radius: 8px;
+}
+
+.table-btn {
+  display: flex;
+  justify-content: center;
+  gap: 2px;
+}
+
+.table-btn button {
+  padding: 3px;
+  border: none;
+  background-color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.table-btn button:hover {
+  background-color: rgb(242, 143, 125);
+}
+
+.table-btn button:nth-child(1) {
+  color: green;
+  font-size: 25px;
+
+}
+
+.table-btn button:nth-child(2) {
+  color: rgb(240, 0, 0);
+  font-size: 25px;
+
+}
+
+.head-serachbox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Search Div */
+
+.admin-search-and-btn-div {
+  border: 1px solid tomato;
+}
+
+.admin-serach-input {
+  padding: 5px 10px;
+  width: 300px;
+  border-radius: 5px;
+  border: none;
+  user-select: none;
+outline: none;
+
+}
+
+.admin-serach-input-btn {
+  padding: 5px 20px;
+  border: none;
+  font-weight: bold;
+  font-size: 15px;
+  background-color: rgb(253, 205, 205);
+  border-left: 1px solid tomato;
+  cursor: pointer;
+  
+}
+
+.admin-serach-input-btn:hover {
+  background-color: tomato;
+  transition: 0.5s;
+}
+
+
+/* Showing the counts */
+.showing-counts {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+  font-size: 14px;
+  color: black;
+}
+
+.showing-counts h3 {
+
+  color: black;
+}

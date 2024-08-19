@@ -1,0 +1,33 @@
+.admin-container {
+  width: 90%;
+  margin: 0px auto;
+  display: flex;
+}
+
+.sidebar {
+  background-color: whitesmoke;
+  width: 15%;
+  padding: 10px 20px;
+}
+
+.admin-content {
+  width: 85%;
+  padding: 20px;
+  margin-left:1%;
+}
+
+.sidebar h3 {
+  padding: 5px  10px;
+  border: 1px solid tomato;
+  border-radius: 15px;
+  margin: 15px 0px;
+  font-size: 18px;
+  transition: 0.5s;
+
+}
+
+
+
+.active{
+  color: tomato;
+}

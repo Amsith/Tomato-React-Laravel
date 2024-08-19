@@ -1,0 +1,88 @@
+.home-div {
+    width: 90%;
+    margin: 10px auto;
+
+
+}
+
+.div-img {
+    background-image: url(../../assets/frontend_assets/header_img.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    border-radius: 10px;
+    padding: 50px 40px;
+
+}
+
+.home-about {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: flex-end;
+    height: 100%;
+    animation: fadIn 1s;
+}
+
+.home-about h1 {
+    font-size: 50px;
+    font-weight: 800;
+    margin: 0px 0px;
+}
+
+.home-about h3 {
+    width: 70%;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 20px 0px;
+}
+
+.home-about button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+    margin: 10px 0px;
+    cursor: pointer;
+}
+
+.home-about button:hover {
+    background-color: rgb(228, 227, 227);
+}
+
+.latest-food{
+    margin-top: 40px;
+}
+
+.latest-food h1{
+    margin: 10px 0px;
+    text-align: center;
+}
+
+.latest-food p{
+    color: gray;
+    font-size: 15px;
+    text-align: center;
+
+}
+
+
+@media (max-width:600px){
+
+    .home-about h1 {
+        font-size: 30px;
+        font-weight: 600;
+    }
+    
+    .home-about h3 {
+        width: 80%;
+        font-size: 18px;
+        font-weight: 400;
+        margin: 20px 0px;
+    }
+    
+
+}
