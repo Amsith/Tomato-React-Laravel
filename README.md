@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="150" src="Educity screenshots/logo.png">
+  <img width="300" height="150" src="Tomato screenshots/logo.png">
 </p>
 <hr>
 
@@ -7,7 +7,7 @@
   
 Welcome to Tomato full-stack web application.
 
-Developed with React on the frontend and Laravel on the backend. The project showcases a clean and modern design, featuring a dynamic carousel, comprehensive form validation, and a responsive layout that adapts effortlessly to any device. Tomato is designed to deliver a smooth and engaging user experience, making it a versatile solution for a variety of web applications.
+Developed with React on the frontend and Laravel on the backend. It features a sleek, modern interface with a dynamic carousel, comprehensive form validation, and a fully responsive design. The project also includes a powerful search function, allowing users to easily find and filter content. Tomato is designed to provide a smooth and engaging user experience, making it an adaptable solution for a variety of web applications.
  
 </p>
 
