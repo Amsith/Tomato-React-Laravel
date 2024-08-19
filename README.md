@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="150" src="Tomato screenshots/logo.png">
+  <img width="150" height="70" src="Tomato screenshots/logo.png">
 </p>
 <hr>
 
