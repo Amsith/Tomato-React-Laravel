@@ -5,7 +5,9 @@
 
 <p align="left">
   
-Welcome to the Edusity landing page, a cornerstone of innovation in digital education. Built with React, this responsive design adapts seamlessly to all devices, delivering a smooth and engaging experience. Edusity embodies the future of learning, combining modern technology with user-centric design to create a powerful platform for education.
+Welcome to Tomato full-stack web application.
+
+Developed with React on the frontend and Laravel on the backend. The project showcases a clean and modern design, featuring a dynamic carousel, comprehensive form validation, and a responsive layout that adapts effortlessly to any device. Tomato is designed to deliver a smooth and engaging user experience, making it a versatile solution for a variety of web applications.
  
 </p>
 
@@ -33,4 +35,42 @@ Welcome to the Edusity landing page, a cornerstone of innovation in digital educ
  <img width="75%" height="50%" src="Tomato screenshots/6.png" >
 </p>
 <br>
-
+<p align="center">
+ <img width="75%" height="50%" src="Tomato screenshots/7.png" >
+</p>
+<br>
+<p align="center">
+ <img width="75%" height="50%" src="Tomato screenshots/8.png" >
+</p>
+<br>
+<p align="center">
+ <img width="75%" height="50%" src="Tomato screenshots/9.png" >
+</p>
+<br>
+<p align="center">
+ <img width="75%" height="50%" src="Tomato screenshots/10.png" >
+</p>
+<br>
+<p align="center">
+ <img width="75%" height="50%" src="Tomato screenshots/11.png" >
+</p>
+<br>
+<p align="center">
+ <img width="75%" height="50%" src="Tomato screenshots/12.png" >
+</p>
+<br>
+<p align="center">
+  Responsive Design
+</p>
+<p align="center">
+ <img width="75%" height="50%" src="Tomato screenshots/13.png" >
+</p>
+<br>
+<p align="center">
+ <img width="75%" height="50%" src="Tomato screenshots/14.png" >
+</p>
+<br>
+<p align="center">
+ <img width="75%" height="50%" src="Tomato screenshots/15.png" >
+</p>
+<br>
