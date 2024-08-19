@@ -10,27 +10,27 @@ Welcome to the Edusity landing page, a cornerstone of innovation in digital educ
 </p>
 
 <p align="center">
- <img width="75%" height="50%" src="Educity screenshots/1.png" style="border: 2px solid #000;">
+ <img width="75%" height="50%" src="Tomato screenshots/1.png" >
 </p>
 <br>
 <p align="center">
-  <img width="75%" height="50%" src="Educity screenshots/2.png" style="border: 2px solid #000;">
+ <img width="75%" height="50%" src="Tomato screenshots/2.png" >
 </p>
 <br>
 <p align="center">
-  <img width="75%" height="50%" src="Educity screenshots/3.png" style="border: 2px solid #000;">
+ <img width="75%" height="50%" src="Tomato screenshots/3.png" >
 </p>
 <br>
 <p align="center">
-  <img width="75%" height="50%" src="Educity screenshots/4.png" style="border: 2px solid #000;">
+  <img width="75%" height="50%" src="Tomato screenshots/4.png" >
 </p>
 <br>
 <p align="center">
- <img width="75%" height="50%" src="Educity screenshots/5.png" style="border: 2px solid #000;">
+ <img width="75%" height="50%" src="Tomato screenshots/5.png" >
 </p>
 <br>
 <p align="center">
- <img width="75%" height="50%" src="Educity screenshots/6.png" style="border: 2px solid #000;">
+ <img width="75%" height="50%" src="Tomato screenshots/6.png" >
 </p>
 <br>
 
